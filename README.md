@@ -28,7 +28,7 @@ This repository is created to:
 
 | S.No | Certificate Name                         | Issued By          | Credential ID         | View Link |
 |------|------------------------------------------|---------------------|------------------------|-----------|
-| 1    | Internship Common Aptitude Test (iCAT)   | Internship Studio   | CIT-P-1979810          | [🔗 View](https://github.com/your-username/Sahil-certifications/raw/main/Sahil_Kumar_iCAT_Certificate.pdf) |
+| 1    | Internship Common Aptitude Test (iCAT)   | Internship Studio   | CIT-P-1979810          | [🔗 View](https://drive.google.com/file/d/18y7VE3iqDZkuoKjaHV17StzywSSFst_E/view?usp=sharing) |
 | 2    | *(Add More Here)*                        | *...*               | *...*                  | *...*     |
 
 > ✅ Certificates will be added as I continue to grow and complete new milestones.
